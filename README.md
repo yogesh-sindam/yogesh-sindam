@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>A passionate DevOps Engineer. Expertise in driving seamless automation and optimizing cloud<br>infrastructures. Automating complex deployments and leveraging cloud services to create scalable and reliable<br>solutions.<br><br>AWS Solution Architect<br>Certified Kubernetes Administrator
+<br>A passionate DevOps Engineer. Expertise in driving seamless automation and optimizing cloud<br>infrastructures. Automating complex deployments and leveraging cloud services to create scalable and reliable<br>solutions.<br><br>AWS Solution Architect<br>Certified Kubernetes Administrator.
 
 
 ## 🌐 Socials:
